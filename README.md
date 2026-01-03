@@ -1,4 +1,4 @@
-# Hi, I'm Ramy 👋
+# Hi, I'm Mohamed Adam 👋
 
 MERN stack developer focused on **frontend development** and building **real-world web applications**
 ---
