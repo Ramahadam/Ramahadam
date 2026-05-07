@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Adam 👋
 
-MERN stack developer focused on **frontend development** and building **real-world web applications**
+Software developer focused on **frontend development** and building **real-world web applications**
 ---
 
 ## 🛠 Tech Stack
